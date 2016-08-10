@@ -1,0 +1,41 @@
+{"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"draw_centered": true,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"fold_buttons": true,
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"move_to_limit_on_up_down": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"pastebin":
+	{
+		"copy_to_clipboard": true,
+		"mode": "pastie",
+		"private": true,
+		"prompt_on_post": false,
+		"username": "Liam (Ch'en Meng)"
+	},
+	"rulers":
+	[
+	],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": ",./<>?;:'\"[]{}\\|=+-)(*&^%$#@!`~，。、《》？；：‘’“”】【|）（…￥·「」『』",
+	"word_wrap": true,
+	"wrap_width": 80
+}
